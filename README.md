@@ -5,4 +5,4 @@ The user will be given a limited number of chances to guess the number. If the u
 
 # roadmap.sh
 
-- [@alisogg]([https://roadmap.sh/projects/single-page-cv](https://roadmap.sh/projects/number-guessing-game))
+- [@alisogg](https://roadmap.sh/projects/number-guessing-game)]
